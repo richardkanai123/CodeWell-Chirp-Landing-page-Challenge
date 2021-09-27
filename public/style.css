@@ -617,7 +617,7 @@ body .footer{
 
     .Home{
         padding: 1rem 0.5rem;
-        width: 99%;
+        width: 100%;
         max-width: 100vw;
         overflow: hidden;
     }
@@ -633,7 +633,7 @@ body .footer{
     }
 
     .HomeInfo{
-        width: 99%;
+        width: 100%;
     }
 
     .HomeInfo h1{
@@ -653,6 +653,7 @@ body .footer{
 
     .Features{
         max-width: 100vw;
+        width: 100%;
         padding: 2rem 0.5rem;
     }
 
@@ -666,7 +667,7 @@ body .footer{
     }
 
     .FeatureCard{
-        width: 99%;
+        width: 100%;
         padding: unset;
     }
 
